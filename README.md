@@ -1,6 +1,6 @@
 # zuri-internship-movie-discovery-webapp
 
-# ** This project uses NextJS with TaiwindCSS.**
+# This project uses NextJS with TaiwindCSS.
 **Project Link**: 
 
 ## PROJECT FEATURES:
@@ -11,7 +11,7 @@
 - PostCSS
 - ESlint
 ----------------------------------------------------------------
-- **Create Project**:
+## Create Project:
 ----------------------------------------------------------------
 -npx create-next-app@latest moviebox_app --javascript --eslint
 cd moviebox_app
