@@ -3,7 +3,7 @@
 # ** This project uses NextJS with TaiwindCSS.**
 **Project Link**: 
 
-## **PROJECT FEATURES:**
+## PROJECT FEATURES:
 
 ----------------------------------------------------------------
 - NextJS
