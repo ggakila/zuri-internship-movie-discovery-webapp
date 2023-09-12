@@ -66,7 +66,7 @@ export default function Header() {
 				</p>
 				<WatchTrailerBtn/>
 			</div>
-			<div className="absolute flex flex-col top-1/2 right-0 mr-[25px] gap-[8px] text-[12px] text-gray-400 leading-[14px]">
+			<div className="absolute flex flex-col top-[42%] right-0 mr-[25px] gap-[8px] text-[12px] text-gray-400 leading-[14px]">
 				<div className="text-[12px] gap-[7px] text-gray-400 flex items-center">
 					<div className="w-[20px] h-[3px] bg-transparent"></div>1
 				</div>
