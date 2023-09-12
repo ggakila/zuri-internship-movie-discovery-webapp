@@ -29,7 +29,7 @@
 - cd moviebox_app
 
 ----------------------------------------------------------------
-## installTailwind CSS
+## installTailwind CSS ( not necessary as first step creates the necessary files)
 ----------------------------------------------------------------
 - npm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init -p
